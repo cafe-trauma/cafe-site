@@ -64,3 +64,18 @@ footer {
     padding-bottom: 150px;
 
 }
+
+.navbar-inverse {
+    background-image: none;
+    background-color: #F77515;
+    color: #F5F5F5;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #F5F5F5;
+}
+
+.jumbotron {
+    background-color: rgba(247,117,21,.20);
+}
+
