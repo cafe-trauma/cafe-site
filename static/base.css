@@ -79,3 +79,10 @@ footer {
     background-color: rgba(247,117,21,.20);
 }
 
+.citation {
+    text-indent: -2em;
+    margin-left: 6em;
+    line-height: 2;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
