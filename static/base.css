@@ -22,11 +22,17 @@
 .progress-details {
 }
 
-.details {
-    margin:25px;
-    padding:25px;
-    border-radius: 10px;
-    border: black solid 1px;
+.person {
+    padding:1em;
+    text-align: center;
+}
+
+.title {
+    opacity: .75;
+}
+
+.institution {
+
 }
 
 .bar-section {
@@ -41,11 +47,6 @@
 .bar-right {
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
-}
-
-
-#people {
-    text-align: center;
 }
 
 footer {
@@ -73,6 +74,11 @@ footer {
 
 .navbar-inverse .navbar-brand {
     color: #F5F5F5;
+}
+
+.logo {
+    width: 3em;
+    margin: 1em;
 }
 
 .jumbotron {
