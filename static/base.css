@@ -76,6 +76,10 @@ footer {
     color: #F5F5F5;
 }
 
+img.navbar-brand {
+    padding: 5px;
+}
+
 .logo {
     width: 3em;
     margin: 1em;
